@@ -1,9 +1,3 @@
----
-layout: page
-title: 개인정보 처리방침
-permalink: /cashform/privacy/
----
-
 # CashForm 개인정보 처리방침
 
 본 앱은 사용자의 데이터를 안전하게 보호하기 위해 최선을 다합니다.
